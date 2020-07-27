@@ -1,10 +1,10 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Example Site"
+title: "Welcome"
 ---
 
-# Introduction
+# Welcome 
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
