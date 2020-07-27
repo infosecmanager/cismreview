@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/cismreview/sw.js",{scope:"/cismreview/"});}

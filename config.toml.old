@@ -1,0 +1,4 @@
+baseURL = "http://cismreview.github.io"
+languageCode = "en-us"
+title = "CISM review"
+theme = "book"
